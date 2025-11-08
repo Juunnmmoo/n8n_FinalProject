@@ -1,12 +1,37 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "C:\\n8n_FinalProject\\n8n_FinalProject\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D9DDD8D2-1504-439C-A5FB-0527257A99AC}|n8n_FinalProject\\n8n_FinalProject.vcxproj|C:\\n8n_FinalProject\\n8n_FinalProject\\n8n_FinalProject\\n8n_FinalProject.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{D9DDD8D2-1504-439C-A5FB-0527257A99AC}|n8n_FinalProject\\n8n_FinalProject.vcxproj|solutionrelative:n8n_FinalProject\\n8n_FinalProject.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
       "VerticalTabListWidth": 256,
-      "DocumentGroups": []
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "n8n_FinalProject.cpp",
+              "DocumentMoniker": "C:\\n8n_FinalProject\\n8n_FinalProject\\n8n_FinalProject\\n8n_FinalProject.cpp",
+              "RelativeDocumentMoniker": "n8n_FinalProject\\n8n_FinalProject.cpp",
+              "ToolTip": "C:\\n8n_FinalProject\\n8n_FinalProject\\n8n_FinalProject\\n8n_FinalProject.cpp",
+              "RelativeToolTip": "n8n_FinalProject\\n8n_FinalProject.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-11-08T04:49:26.779Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
     }
   ]
 }
